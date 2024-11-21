@@ -1,4 +1,4 @@
-<h1>Hi, I'm Grant! <br/> <a href="https://www.linkedin.com/in/grant-schamel-4732251a0/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Grant! <br/> <a href="https://www.linkedin.com/in/grant-schamel-4732251a0/">A Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
