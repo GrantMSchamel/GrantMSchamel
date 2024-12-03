@@ -1,9 +1,13 @@
 <h1>Hi, I'm Grant! <br/> <a href="https://www.linkedin.com/in/grant-schamel-4732251a0/">A Cybersecurity Professional</a></h1>
 
+<h2>👨‍💻 Cybersecurity Experience:</h2>
+
+- [Mastercard Internship Projects](https://github.com/GrantMSchamel/Mastercard-Internship/tree/main)
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/GrantMSchamel/ActiveDirectoryLab)
-- [Mastercard Internship Projects](https://github.com/GrantMSchamel/Mastercard-Internship/tree/main)
+
 
 <h2>📺 Certifications</h2>
 
