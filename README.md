@@ -8,7 +8,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/GrantMSchamel/ActiveDirectoryLab)
-- [TryHackMe SOC Level 1 Projects](#)
+- [TryHackMe SOC Level 1 Projects](https://github.com/GrantMSchamel/THM-SOC-1-Projects)
 
 
 <h2>📺 Certifications</h2>
