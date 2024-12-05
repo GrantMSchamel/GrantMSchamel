@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Experience:</h2>
 
 - [Mastercard Internship Projects](https://github.com/GrantMSchamel/Mastercard-Internship/tree/main)
-- [AIG Internship Projects](#)
+- [AIG Internship Projects](https://github.com/GrantMSchamel/AIG-Projects/tree/main)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
